@@ -1,0 +1,16 @@
+c:\users\jerry_000\documents\visual studio 2013\Projects\BarDecoder\BarDecoder\bin\Debug\BarDecoder.exe.config
+C:\dev\BarDecoder\BarDecoder\bin\Debug\BarDecoder.exe.config
+C:\dev\BarDecoder\BarDecoder\bin\Debug\BarDecoder.exe
+C:\dev\BarDecoder\BarDecoder\bin\Debug\BarDecoder.pdb
+C:\dev\BarDecoder\BarDecoder\obj\Debug\BarDecoder.csprojResolveAssemblyReference.cache
+C:\dev\BarDecoder\BarDecoder\obj\Debug\BarDecoder.Decodificador.resources
+C:\dev\BarDecoder\BarDecoder\obj\Debug\BarDecoder.Properties.Resources.resources
+C:\dev\BarDecoder\BarDecoder\obj\Debug\BarDecoder.csproj.GenerateResource.Cache
+C:\dev\BarDecoder\BarDecoder\obj\Debug\BarDecoder.exe
+C:\dev\BarDecoder\BarDecoder\obj\Debug\BarDecoder.pdb
+C:\dev\BarDecoder\BarDecoder\bin\Debug\zxing.dll
+C:\dev\BarDecoder\BarDecoder\bin\Debug\zxing.pdb
+C:\dev\BarDecoder\BarDecoder\bin\Debug\zxing.presentation.dll
+C:\dev\BarDecoder\BarDecoder\bin\Debug\zxing.xml
+C:\dev\BarDecoder\BarDecoder\bin\Debug\zxing.presentation.pdb
+C:\dev\BarDecoder\BarDecoder\bin\Debug\zxing.presentation.xml
